@@ -1,5 +1,4 @@
 # EXCEL-DASHBOARDS
-1)Created a Basic Excel Stock Market Dashboard on Dmart and Asian Paints data  
+1)Developed a succinct Stock Market Dashboard in Excel for Dmart and Asian Paints data. Employed advanced functions including INDEX, MATCH, LEFT, FIND, and VLOOKUP, showcasing adept data analysis and visualization skills.
 
-2)Create an E-commerce Sales dashboard by taking up business metrics as KPI .Please find the pdf of the dashboard attached on it
-   for an overview.
+2)Designed an E-commerce Sales Dashboard, employing diverse charts like pie charts, waterfall charts, and tree maps to analyze key business metrics. Enhanced data visualization for effective insights and strategic decision-making.
